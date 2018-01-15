@@ -2,4 +2,4 @@
 
 
 
-CodingApi的四层结构
+CodingApi的公共文档见wiki
